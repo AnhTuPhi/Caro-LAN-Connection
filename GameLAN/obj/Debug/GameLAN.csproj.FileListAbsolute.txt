@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\bin\Debug\GameLAN.exe.config
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\bin\Debug\GameLAN.exe
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\bin\Debug\GameLAN.pdb
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.Form1.resources
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.Properties.Resources.resources
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.exe
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.pdb
+D:\Microsoft Visual Studio\repositories\GameLAN\GameLAN\obj\Debug\GameLAN.Home.resources
