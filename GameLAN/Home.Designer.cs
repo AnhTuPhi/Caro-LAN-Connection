@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.pnl_ChessBoard = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.pctbAvatar = new System.Windows.Forms.PictureBox();
@@ -65,10 +66,12 @@
             // 
             this.pctbAvatar.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pctbAvatar.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.pctbAvatar.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.pctbAvatar.Image = global::GameLAN.Properties.Resources.avatar;
             this.pctbAvatar.Location = new System.Drawing.Point(0, 0);
             this.pctbAvatar.Name = "pctbAvatar";
             this.pctbAvatar.Size = new System.Drawing.Size(294, 266);
+            this.pctbAvatar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pctbAvatar.TabIndex = 0;
             this.pctbAvatar.TabStop = false;
             // 
@@ -148,6 +151,7 @@
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.pnl_ChessBoard);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Home";
             this.Text = "Home";
             this.panel2.ResumeLayout(false);
