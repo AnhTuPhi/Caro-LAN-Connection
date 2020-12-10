@@ -18,7 +18,7 @@ namespace GameLAN
         public Home()
         {
             InitializeComponent();
-            ChessBoard = new ChessBoardManager(pnl_ChessBoard);
+            ChessBoard = new ChessBoardManager(pnl_ChessBoard, txt_PlayerName, pctb_Mark);
             ChessBoard.DrawChessBoard();
         }
 

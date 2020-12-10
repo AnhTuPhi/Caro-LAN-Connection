@@ -78,7 +78,7 @@
             // panel3
             // 
             this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel3.BackColor = System.Drawing.SystemColors.Control;
             this.panel3.Controls.Add(this.label1);
             this.panel3.Controls.Add(this.btn_Lan);
             this.panel3.Controls.Add(this.txt_IP);
@@ -125,6 +125,7 @@
             this.pctb_Mark.Location = new System.Drawing.Point(155, 3);
             this.pctb_Mark.Name = "pctb_Mark";
             this.pctb_Mark.Size = new System.Drawing.Size(139, 113);
+            this.pctb_Mark.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pctb_Mark.TabIndex = 2;
             this.pctb_Mark.TabStop = false;
             // 
